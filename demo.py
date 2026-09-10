@@ -9,5 +9,8 @@
 # min=(mintues%60)
 # print(mintues, " is ", hrs ,"hours", min, "minutes" )
 
-no=input("enter age: ")
-print(no ,": last digit is ",no[-1])
+# no=input("enter no: ")
+# print(no ,": last digit is ",no[-1])
+
+no=int(input("enter no: "))
+print(no ,": last digit is ",no%10)
