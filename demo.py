@@ -4,5 +4,8 @@
 # age=int(input("enter age: "))
 # print(f"{age=} years = {365*age}")
 
-min=int(input("enter minutes: "))
-print(min, " is ", min / 60)
+# mintues=int(input("enter minutes: "))
+# hrs=(mintues//60)
+# min=(mintues%60)
+# print(mintues, " is ", hrs ,"hours", min, "minutes" )
+
